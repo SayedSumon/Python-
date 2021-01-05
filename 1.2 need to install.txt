@@ -1,0 +1,7 @@
+please pip install :
+
+1.pyttsx3
+2.pyaudio
+3.speech_recognation
+4.wikipedia
+5.smtplib
